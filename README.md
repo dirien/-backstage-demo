@@ -93,7 +93,7 @@ workshop.
 Run this command and follow the instructions inside the terminal:
 
 ```bash
-./clusters.sh
+./cluster.sh
 ```
 
 If you are done with the cluster creation, you can move on to the next step.
